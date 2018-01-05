@@ -7,7 +7,8 @@ set number
 set cursorline
 set nohlsearch
 set noswapfile
-set autoindent
+set paste
+"set autoindent
 set laststatus=2
 set statusline=%<%f\ %h%m%r%w%y%=%-14.([%L]\ \ \ %l,%c%V%)\ %P
 set cursorline
